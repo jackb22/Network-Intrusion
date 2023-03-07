@@ -1,7 +1,7 @@
 # Network-Intrusion
 Version 1 
 
-Prediction score of 99%. 
+Prediction score of 98%. 
 
 Model is believed to be overfitting. 
 
